@@ -1,5 +1,5 @@
-main: org.arkadst.onlypunksplayerdeath.Main
-name: OnlyPunksPlayerDeath
+main: org.arkadst.headondeath.Main
+name: HeadOnDeath
 version: 1.0
 api-version: 1.16
 author: ArkadSt

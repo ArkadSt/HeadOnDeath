@@ -1,4 +1,4 @@
-package org.arkadst.onlypunksplayerdeath;
+package org.arkadst.headondeath;
 
 import org.bukkit.Material;
 import org.bukkit.entity.Player;
